@@ -15,9 +15,7 @@ body {
 
 
 
-p {
-    margin-bottom: 15px;
-}
+
 
 /* 2. Class Selector: Used for recurring layout patterns (.classname) */
 .card-container {
